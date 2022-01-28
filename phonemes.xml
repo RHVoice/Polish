@@ -31,7 +31,7 @@
   <phoneme name="t" vc="-" son="-" cont="-" ctype="s" cor="+" cplace="a" cvox="-" vpair="d" cpal="-"/>
   <phoneme name="u" vc="+" vheight="3" vfront="1" vrnd="+"/>
   <phoneme name="v" vc="-" son="-" cont="+" ctype="f" cplace="b" clab="+" cvox="+" vpair="f" cpal="-"/>
-  <phoneme name="ih" vc="+" vlng="s" vheight="1" vfront="1" vrnd="-"/>
+  <phoneme name="ih" vc="+" vheight="1" vfront="2" central="+" close="+" vrnd="-"/>
   <phoneme name="z" vc="-" son="-" cont="+" ctype="f" csib="+" cor="+" cplace="a" cvox="+" vpair="s" cpal="-"/>
   <phoneme name="zi" vc="-" son="-" cont="+" ctype="f" csib="+" cor="+" cplace="p" cvox="+" vpair="si" cpal="+"/>
   <phoneme name="zh" vc="-" son="-" cont="+" ctype="f" csib="+" cor="+" cplace="a" cvox="+" cpal="-" vpair="sh"/>
