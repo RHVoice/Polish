@@ -1,5 +1,6 @@
 ; The file must be in UTF-8.
 ; The = sign is used, but there must be no spaces between the word and its pronunciation: spaces separate individual words in collocation entries
+aqua=akfa
 axm=aiksem
 itd=itede
 itp=itepe
@@ -8,6 +9,9 @@ nvda=enfałdea
 onz=oenzet
 pge=pegiee
 pko=pekao
+qui=kfi
+quo=kfo
+quorum=kforum
 usa=uesa
 usb=uesbe
 usd=uesde
