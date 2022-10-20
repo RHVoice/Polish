@@ -16,8 +16,10 @@ ert/i
 itd/i
 itp/i
 lte/i
+msi/i
 nba/i
 nvda/i
+olx/i
 odt/i
 onz/i
 pfron=pefron
@@ -29,11 +31,14 @@ quo=kfo
 quorum=kforum
 tpsa/i
 uac/i
+uia/i
+ux/i
 upc/i
 upnp/i
 usa/i
 usb/i
 usd/i
+ussd/i
 utf/i
 uv/i
 uw/i
