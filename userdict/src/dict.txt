@@ -57,7 +57,6 @@ s&ilos
 s&ilos{u,ie,owi,ach,ami,em,y,ów}
 s&idney
 s&idney{a,em,ami,ach,u,owi}
-s&ile(si=zj)*
 Mateusz/2
 napoić/2
 Tadeusz/2
