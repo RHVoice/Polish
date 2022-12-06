@@ -12,7 +12,11 @@ dlna/i
 doc/i
 docx/i
 dotm/i
+edc/i
+edp/i
+edt/i
 ert/i
+etc/i
 itd/i
 itp/i
 lte/i
@@ -20,8 +24,10 @@ msi/i
 nba/i
 nvda/i
 olx/i
+odp/i
 odt/i
 onz/i
+ovh/i
 pfron=pefron
 pge/i
 pko/i
@@ -65,6 +71,7 @@ co/1
 to/1
 android/-1
 przed&zawał*
+nad&ż*
 skąd&że
 pro(śb=źb)*
 pró(śb=źp)*
