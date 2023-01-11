@@ -54,6 +54,11 @@ fizyka/2
 matematyka/2
 polonistyka/2
 języki/2
+(m=em)bank/2
+(m=em)token/2
+(m=em)obywatel/2
+*IKP/i
+(m=em)pacjent/2
 maks&imum
 maks&im{a,ów,om,ami,ach}
 s&itar
