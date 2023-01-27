@@ -7,6 +7,7 @@ axm/i
 ccir/i
 cia/i
 cpu/i
+dcim/i
 DNA/i
 dlna/i
 doc/i
@@ -22,6 +23,8 @@ itp/i
 lte/i
 msi/i
 nba/i
+ngo/i
+nzoz/i
 nvda/i
 olx/i
 odp/i
