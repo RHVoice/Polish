@@ -97,7 +97,8 @@ opp/i
 ngo/i
 pzu/i
 mur&zasichl*
-s&ies*
+s&iesick*
+s&iest*
 s&ieście
 opp/i
 awf/i
