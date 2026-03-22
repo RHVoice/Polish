@@ -1,4 +1,13 @@
-; ten plik słownika zapewnia poprawny odczyt starożytnej greki przez polskie głosy syntezatora RhVoice dla Windows
+; ten plik słownika zapewnia poprawny odczyt starożytnej greki przez polskie głosy syntezatora RhVoice dla modułu polskiego w wersji 21 lub nowszej 
+;poniższe siedem wpisów ma na celu zapewnienie wypowiadania nazwy greckich samogłosek nie posiadających diakrytyk, co jest pomocne podczas korzystania z notacji matematycznej i fizycznej; aby greckie litery w takich zapisach były czytane poprawnie nie mogą się łączyć z innym tekstem np. między oznaczeniem tg a oznaczeniem alfa musi znajdować się odstęp
+; w rzadkich sytuacjach, gdy użytkownik będzie miał potrzebę pracy z tekstem greckim nie posiadającym diakrytyk (np. tekst z manuskryptów majuskułowych lub z aparatu krytycznego) to dla uzyskania prawidłowego odczytu można przed tymi siedmioma wpisami wstawić znaki średnika (;) - taka zmiana dotyczy tylko trybu ciągłego odczytu, bo tryb literowania działa poprawnie niezależnie od poniższych wpisów
+α=alfa
+ε=epsilon
+η=eta
+ι=jota
+ο=omikron
+υ=ypsylon
+ω=omega
 ; Poniższe wpisy umożliwiają poprawny odczyt dyftongów oraz niektórych kombinacji liter zmieniających ich standardową wymowę
 (αἱ=haj)*
 (αἵ=haj)*
@@ -73,20 +82,20 @@
 *(γξ=nks)*
 *(γχ=nch)*
 *σ&ι*
-*σ&(ί=ij)*
-*σ&(ί=ij)*
-*σ&(ὶ=ij)*
-*σ&(ῖ=ij)*
+*σ&ί*
+*σ&ί*
+*σ&ὶ*
+*σ&ῖ*
 *ξ&ι*
-*ξ&(ί=ij)*
-*ξ&(ί=ij)*
-*ξ&(ὶ=ij)*
-*ξ&(ῖ=ij)*
+*ξ&ί*
+*ξ&ί*
+*ξ&ὶ*
+*ξ&ῖ*
 *ψ&ι*
-*ψ&(ί=ij)*
-*ψ&(ί=ij)*
-*ψ&(ὶ=ij)*
-*ψ&(ῖ=ij)*
+*ψ&ί*
+*ψ&ί*
+*ψ&ὶ*
+*ψ&ῖ*
 (Ἀι=A)*
 (Ἄι=A)*
 (Ἂι=A)*
